@@ -10,7 +10,7 @@ A Java web application that implements a digital library catalog to demonstrate 
 ![Trigering GET and POST](Trigering-GET-and-POST-HTTP-methods.png)
 ![GET and POST Results](GET-POST.png)
 ![HTTP PUT Method](HTTP-PUT-method.png)
-![Editing Triggering PUT](Editing-Triggering-PUT-HTTP-method.png)
+![Editing Triggering PUT-HTTP-method](Editing-Triggering-PUT-HTTP-method.png)
 ![HTTP DELETE Method](HTTP-DELETE-method.png)
 
 ## How to Run
