@@ -21,5 +21,8 @@ This project is a simple chat application developed in Java using sockets. The s
 ## Testing
 The application was tested with one server and two clients. Both clients connected successfully and exchanged messages.
 
+## Screenshot
+![Server and Clients Demo](Server-and-2Clients.png)
+
 ## Questions
 The client starts the communication by connecting to the server and sending a request, such as registering a nickname. The server must be started first so that it can listen for incoming client connections. The server needs to handle many clients at once because several users may connect and send messages simultaneously. Using separate threads allows the server to handle each client independently and forward messages without blocking communication with other clients.
